@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{6daf755c-1b02-4849-85ab-a6cb3f720002}" Title="PantsOnFire" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PantsOnFire author" Description="Sample description" Publisher="PantsOnFire" PublisherID="{76cbce27-d320-46a8-a08e-5dfc36b43092}">
+  <App xmlns="" ProductID="{6daf755c-1b02-4849-85ab-a6cb3f720002}" Title="PantsOnFire" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PantsOnFire author" Description="Pants on Fire tests the truth" Publisher="PantsOnFire" PublisherID="{76cbce27-d320-46a8-a08e-5dfc36b43092}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
